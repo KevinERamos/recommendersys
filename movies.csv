@@ -1,0 +1,456 @@
+productId;title;genres
+1;aceite de coco;cosmeticos|alimentacion
+2;aceite de pino;limpieza
+3;acetanilida;farmaceuticos
+4;acetato basico niquel;construccion|quimicos
+5;acetato de amonio;alimentacion|quimicos
+6;acetato de bario;quimicos
+7;acetato de cadmio;quimicos
+8;acetato de calcio;quimicos|alimentacion
+9;acetato de cobalto;construccion|quimicos
+10;acetato de cobre ;agricultura|electronica|textil
+11;acetato de magnesio cristales;alimentacion|farmaceuticos
+12;acetato de mercurio;alimentacion|quimicos
+13;acetato de niquel; 
+14;acetato de plomo;construccion|quimicos
+15;acetato de potasio;agricultura|alimentacion
+16;acetato de sodio;alimentacion|cosmeticos|textil|farmaceuticos
+17;acetato de zinc;alimentacion|farmaceuticos|cosmeticos|agricultura|medioambiente
+18;acetato magnesio anhidro;alimentacion|farmaceuticos|textil|medioambiente
+19;acetato sodio anhidro;alimentacion|farmaceuticos|textil|medioambiente
+20;acido acetico glacial;farmaceuticos|alimentacion|textil|quimicos|cosmeticos|medioambiente
+21;acido ascorbico;farmaceuticos|alimentacion|cosmeticos
+22;acido benzoico;alimentacion|farmaceuticos|cosmeticos
+23;acido borico;farmaceuticos|alimentacion|medioambiente|agricultura
+24;acido citrico;alimentacion|farmaceuticos|cosmeticos|limpieza|medioambiente|
+25;acido estearico;automotriz|cosmeticos|alimentacion|farmaceuticos
+26;acido fenico;limpieza|farmaceuticos|agricultura|alimentacion|cosmeticos
+27;acido fluosalicilico;farmaceuticos|cosmeticos|quimicos
+28;acido formico;farmaceuticos|agricultura|quimicos
+29;acido fosfomolibdico;quimicos|farmaceuticos
+30;acido fosforico;alimentacion|limpieza|agricultura|medioambiente
+31;acido ftalico;quimicos|construccion|automotriz
+32;acido fumarico;alimentacion|farmaceuticos
+33;acido lactico;alimentacion|limpieza|cosmeticos|farmaceuticos
+34;acido oleico;alimentacion|limpieza|cosmeticos
+35;acido oxalico;limpieza|mineria
+36;acido palmico;alimentacion|limpieza|cosmeticos
+37;acido picrico;mineria|quimicos
+38;acido pirogalico;farmaceuticos|cosmeticos
+39;acido propianico;alimentacion
+40;acido salicilico;cosmeticos|farmaceuticos
+41;acido selenioso;quimicos
+42;acido sorbico;alimentacion|cosmeticos|farmaceuticos
+43;acido succinico;alimentacion|quimicos|farmaceuticos|automotriz
+44;acido sulfamico;limpieza|quimicos
+45;acido sulfusalicilico;farmaceuticos
+46;acido tanico;alimentacion|farmaceuticos|textil
+47;acido tartarico;alimentacion|farmaceuticos|cosmeticos
+48;acido tereftalico;textil|construccion
+49;agar agar;alimentacion|agricultura
+50;agua de bromo;limpieza
+51;agua destilada a granel;farmaceuticos|cosmeticos|quimicos|electronica
+52;alambre cobre electro;electronica
+53;albumina;alimentacion|farmaceuticos|cosmeticos
+54;alcanfor;farmaceuticos|cosmeticos|construccion
+55;alcohol cetilico;cosmeticos|farmaceuticos
+56;alcohol cetoestearilico;cosmeticos|farmaceuticos
+57;alcohol estearilico;cosmeticos|farmaceuticos
+58;alcohol polivinilico;cosmeticos|farmaceuticos|textil|construccion
+59;alginato de sodio;alimentacion|cosmeticos|farmaceuticos
+60;almidon de maiz;alimentacion|construccion|farmaceuticos|textil
+61;alodine 1200-s;electronica|mineria
+62;alumbre amoniacal dodecahidratado;alimentacion|quimicos
+63;alumbre amonio;textil
+64;alumbre de cromo;textil
+65;alumbre de potasio;alimentacion|construccion
+66;aluminato de sodio;construccion|quimicos
+67;aluminio en polvo;mineria|quimicos
+68;aluminio y amonio sulfuro;construccion|quimicos
+69;amilo pectino (almidon de papa);alimentacion|farmaceuticos
+70;amilopectina;alimentacion|farmaceuticos
+71;anhidrido oftalico;construccion|quimicos
+72;antimonio en trozos;construccion|electronica
+73;antimonio sulfuro iii;construccion|electronica|explosivos
+74;arsenico en trozos;electronica
+75;arsenico oxido;agricultura|electronica
+76;ascorbato de sodio;alimentacion|farmaceuticos
+77; azufre en polvo ;agricultura|explosivos|farmaceuticos
+78;bacto agar;alimentacion|medioambiente
+79;benzoato de amonio;alimentacion|cosmeticos|farmaceuticos
+80;benzoato de litio;quimicos
+81;benzoato de sodio;alimentacion|cosmeticos|farmaceuticos
+82;benzocaina;cosmeticos|farmaceuticos
+83;bicarbonato de amonio;agricultura|alimentacion
+84;bicarbonato de potasio;agricultura|alimentacion
+85;bicarbonato de sodio;alimentacion|quimicos|limpieza
+86;bicromato de amonio;construccion|textil
+87;bifloururo de amonio;cosmeticos|electronica|farmaceuticos
+88;bifluoruro de sodio;cosmeticos|construccion|farmaceuticos
+89;biftalato potasio;construccion|quimicos
+90;biosulfato de sodio;medioambiente|mineria
+91;bioxido de plomo;electronica
+92;bismutato de sodio;medioambiente|textil
+93;bismuto puro;cosmeticos|farmaceuticos
+94;bisulfato de potasio;construccion|medioambiente
+95;bisulfito de sodio;alimentacion|construccion|medioambiente
+96;borax;agricultura|construccion|limpieza
+97;bromuro de amonio;construccion|farmaceuticos
+98;bromuro de plomo;construccion
+99;bromuro de potasio;construccion|farmaceuticos
+100;bromuro de sodio;
+101;c.m.c puro;
+102;c.m.c. usp a granel;
+103;cabonato de niquel;
+104;cadmio barritas;
+105;cadmio laminas;
+106;cal sodada;
+107;calamina q.p.;
+108;calamina usp a granel;
+109;caolin;
+110;carbomer;
+111;carbon activado q.p.;
+112;carbon activado usp a granel;
+113;carbonato de bario;
+114;carbonato de bismuto;
+115;carbonato de calcio;
+116;carbonato de cobre;
+117;carbonato de estroncio;
+118;carbonato de litio;
+119;carbonato de magnesio;
+120;carbonato de plomo;
+121;carbonato de zinc;
+122;carbonato manganeso;
+123;carboner 940;
+124;carbopol;
+125;carburo de calcio;
+126;carmin al 50 % usp;
+127;carmin en lactosa p.a.;
+128;carmin p.a.;
+129;carmin usp a granel;
+130;carragenina;
+131;caseina;
+132;catalizador para kjeldah;
+133;celite p.a;
+134;celulosa;
+135;celulosa microcristalina;
+136;cera carnauba;
+137;cera de abeja;
+138;cera k.l.e.;
+139;cianuro de cobre;
+140;citrato cuprico;
+141;citrato de calcio;
+142;citrato de cobre;
+143;citrato de magnesio;
+144;citrato de potasio;
+145;citrato de sodio;
+146;citrato dihidrogeno potasio;
+147;citrato sodio anhidro;
+148;clorato de bario;
+149;clorato de potasio;
+150;clorato de sodio;
+151;cloruro cadmio;
+152;cloruro de aluminio;
+153;cloruro de bario;
+154;cloruro de calcio anhidro;
+155;cloruro de calcio dihidratado;
+156;cloruro de calcio dihiratado;
+157;cloruro de cobalto;
+158;cloruro de cobre;
+159;cloruro de estaño;
+160;cloruro de estroncio;
+161;cloruro de litio;
+162;cloruro de magnesio;
+163;cloruro de magnesio  hexahidratado;
+164;cloruro de magnesio 6 hidratos;
+165;cloruro de magnesio anhidro;
+166;cloruro de manganeso;
+167;cloruro de mercurio;
+168;cloruro de niquel;
+169;cloruro de plata;
+170;cloruro de plomo;
+171;cloruro de potasio;
+172;cloruro de sodio;
+173;cloruro de zinc;
+174;cloruro estañoso;
+175;cloruro ferrico anhidro;
+176;cloruro ferrico anhidro;
+177;cloruro ferrico hexahidratado;
+178;cloruro ferrico hexahidratado;
+179;cloruro ferroso;
+180;cobre en barras 99.99 %;
+181;compèrlan;
+182;comperlan kd usp;
+183;cremor  tartaro q.p.;
+184;cremor  tartaro usp a granel;
+185;cromato de amonio;
+186;cromato de bario;
+187;cromato de calcio;
+188;cromato de plomo tco;
+189;cromato de potasio;
+190;cromato de sodio;
+191;dextrosa anhidra p.a.;
+192;dextrosa anhidra usp a granel;
+193;dicromato de amonio;
+194;dicromato de potasio;
+195;dicromato de sodio;
+196;dioxido de plomo p.a.;
+197;dioxido de selenio;
+198;dioxido titanio p.a.;
+199;dioxido titanio usp a granel;
+200;di-sodio hidrogeno fosfato;
+201;edta disodica magnesica;
+202;edta disodico dihidratado;
+203;edta disodico p.a.;
+204;edta tetrasodico usp;
+205;espemaceti usp;
+206;esperma ballena usp;
+207;estaño metalico granallas;
+208;estaño polvo puro;
+209;estearato de magnesio;
+210;euperlan;
+211;extracto de malta;
+212;fenol p.a. “lobachemi”;
+213;fenolftaleina p.a.”nilechemi”;
+214;ferrocianuro de potasio p.a.;
+215;fluoruro de amonio p.a.;
+216;fluoruro de calcio p.a.;
+217;fluoruro de estaño p.a.;
+218;fluoruro de potasio p.a.;
+219;fluoruro de sodio p.a.;
+220;formiato de estroncio;
+221;fosfato amoniacal;
+222;fosfato amoniacal dihidrato;
+223;fosfato anhidro disodico;
+224;fosfato de calcio tribasico usp;
+225;fosfato de sodio dibasico;
+226;fosfato diacido de potasio;
+227;fosfato dibasico de potasio;
+228;fosfato dipotasico;
+229;fosfato disodico;
+230;fosfato disodico 12 hidratos;
+231;fosfato disodico 2 hidratos;
+232;fosfato disodico 7 hidratos;
+233;fosfato disodico amoniacal;
+234;fosfato disodico dihidrato;
+235;fosfato disodico heptahidrato;
+236;fosfato monoamonico;
+237;fosfato monoamonico tco;
+238;fosfato monobasico de potasio;
+239;fosfato monobasico sodio 2 hidratos;
+240;fosfato monopotasico;
+241;fosfato monosodico;
+242;fosfato monosodico anhidro;
+243;fosfato monosodico dihidrato;
+244;fosfato monosodico monohidrato;
+245;fosfato potasico monohidrato;
+246;fosfato triamonico;
+247;fosfato tribasico de sodio;
+248;fosfato tricaleico usp;
+249;fosfato tripotasico;
+250;fosfato tripotasico monohidrato;
+251;fosfato trisodico anhidro;
+252;fosfato trisodico decahidratado;
+253;gelatina base;
+254;glicina(glicocola)p.a.;
+255;gluconato de calcio;
+256;glucosa anhidra usp;
+257;glucosa anhnidra p.a.;
+258;goma arabiga;
+259;goma guar;
+260;goma laca en polvo;
+261;goma tragaconto;
+262;goma xanthom;
+263;hidrato de cloral;
+264;hidroquinoleina;
+265;hidrosulfito de sodio anhidro;
+266;hidrosulfito de sodio en polvo;
+267;hidroxicarbonato de zinc;
+268;hidroxido de aluminio;
+269;hidroxido de bario;
+270;hidroxido de cadmio;
+271;hidroxido de calcio;
+272;hidroxido de cobre;
+273;hidroxido de potasio;
+274;hidroxiquinoleina;
+275;hierro en limaduras;
+276;hierro en pòlvo;
+277;hiflosuper cel  p.a.;
+278;hipofosfito de manganeso;
+279;lactato de amonio;
+280;lactato de calcio;
+281;lactosa;
+282;lanolina anhidra;
+283;lauril;
+284;lauril sulfato de sodio 96 %;
+285;magnesio en cinta;
+286;magnesio en virutas;
+287;magnesio metalico en lentejas;
+288;manitol;
+289;mentol usp;
+290;metabisulfito de potasio;
+291;metanoato de sodio;
+292;metaperiadato de potasio;
+293;metasulfito de sodio;
+294;metilparabeno ;
+295;molibdato de amonio;
+296;molibdato de potasio;
+297;molibdato de sodio;
+298;monoclohidrato d-l-histidina;
+299;nitrato de amonio;
+300;nitrato de bario;
+301;nitrato de bismuto;
+302;nitrato de cobre;
+303;nitrato de cadmio;
+304;nitrato de calcio;
+305;nitrato de cobalto;
+306;nitrato de estroncio;
+307;nitrato de litio;
+308;nitrato de magnesio;
+309;nitrato de mercurioso;
+310;nitrato de niquel hexahidrato;
+311;nitrato de plomo;
+312;nitrato de potasio;
+313;nitrato de sodio;
+314;nitrato de plata;
+315;nitrato de zinc;
+316;nipagin;
+317;nipasol;
+318;naptalina;
+319;nitroprusiato de sodio;
+320;oxalato de cobalto;
+321;oxalato de potasio;
+322;oxalato de sodio;
+323;oxido de cadmio;
+324;orto-tolidina;
+325;oxalato de amonio;
+326;oxalato de calcio;
+327;oxalato de litio;
+328;parafina solida;
+329;parafina en lentejas;
+330;pectina citrica;
+331;pentoxido de vanadio;
+332;perborato sodico;
+333;perclorato de potasio;
+334;perclorato de sodio;
+335;persulfato de amonio;
+336;persulfato de potasio;
+337;picrato de plomo;
+338;piedra pomez en polvo;
+339;pigmento amarillo;
+340;pigmento amarillo palido;
+341;pigmento azul inorganico;
+342;pirufosfato de sodio;
+343;pirofosfato acido sodico;
+344;plomo electrolitico granulado;
+345;plomo en laminas ;
+346;plomo metalico granulado;
+347;plomo microperlas;
+348;p-nitroanilina;
+349;polisorbato 60 tween;
+350;p-bromofenol;
+351;resina intercambio ambiental;
+352;resina anionica;
+353;sacarina sodica;
+354;sacarosa;
+355;sal industrial;
+356;sal amonio;
+357;sal stripper;
+358;salicilato de sodio;
+359;selenio puro;
+360;selenio powder;
+361;selenio en polvo;
+362;selenito de sodio;
+363;silicagel azul;
+364;silicagel en polvo;
+365;silicagel usp;
+366;silicagel para cromatografia;
+367;silicagel para columna;
+368;silicato de aluminio;
+369;silice amorfa;
+370;sodio sulfocianuro;
+371;sorbato de potasio;
+372;subacetato de plomo;
+373;sucrosa de plomo;
+374;sub nitrato de bismuto;
+375;sulfamato de amonio;
+376;sulfanilamida;
+377;sulfato de aluminio;
+378;sulfato de amonio y aluminio;
+379;sulfato de amonio y niquel;
+380;sulfato de bario;
+381;sulfato de cadmio;
+382;sulfato de calcio;
+383;sulfato de cobre anhidro;
+384;sulfato cuprico;
+385;sulfato de cromo;
+386;sulfato cuprico;
+387;sulfato cromico puro;
+388;sulfato de cobalto;
+389;sulfato ferrico;
+390;sulfato de hierro;
+391;sulfato de fierro tco;
+392;sulfato ferroso;
+393;sulfato de potasio;
+394;sulfato de titanio;
+395;sulfato de zinc;
+396;sulfito de sodio;
+397;sulfito de zinc;
+398;sulfuro de cadmio tco;
+399;sulfuro ferroso 7 hidratos;
+400;sulfuro de hierro ii;
+401;sulfuro de sodio tco;
+402;sulfuro de plomo;
+403;sulfato de magnesio heptahidrato;
+404;sulfuro manganeso;
+405;sulfato de niquel;
+406;sulfato de mercurio;
+407;sulfato basico de mercurio;
+408;sulfato de plomo;
+409;sulfato de potasio y aluminio;
+410;sulfato ferrico 18 hidratos;
+411;sulfato ferrico 9 hidratos;
+412;sulfato ferrico 6 hidratos;
+413;sulfato de sodio;
+414;tartrato antimonico potasico;
+415;tartrato de potasio;
+416;tartrato potasio y antimonio;
+417;tartrato potasio y sodio;
+418;tartrato de sodio;
+419;tartrato de sodio y magnesio;
+420;teobromina usp;
+421;tetraborato de sodio;
+422;tartracina amarilla;
+423;texapon al 90 %;
+424;timol;
+425;timol en cristales;
+426;tiocionato de amonio;
+427;tiocionato de potasio;
+428;ticionato de sodio;
+429;tioglicolato de calcio;
+430;tiocionato de cobalto;
+431;tioglicolato de sodio;
+432;tiosulfato de bario;
+433;tiosulfato de potasio;
+434;tiosulfato de sodio;
+435;tiourea;
+436;tricloruro de aluminio;
+437;tricloruro ferrico;
+438;tioglicolato de bario;
+439;urea tecnica;
+440;urea industrial;
+441;vainilla;
+442;verde malaquita;
+443;verde brillante;
+444;violeta de genciana;
+445;vaselina solida;
+446;yoduro de bismuto;
+447;yoduro de potasio;
+448;yodo bismutato potasio;
+449;yoduro de mercurio;
+450;yoduro de plomo;
+451;zinc en granallas;
+452;zinc en laminas;
+453;zinc electrolitico;
+454;zinc en polvo;
+;;
